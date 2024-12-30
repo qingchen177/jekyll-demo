@@ -1,10 +1,10 @@
 - name: Home
-  link: /
+  link: /jekyll-demo
 - name: About
-  link: /about.html
+  link: /jekyll-demo/about.html
 - name: Blog
-  link: /blog.html
+  link: /jekyll-demo/blog.html
 - name: Staff
-  link: /staff.html
+  link: /jekyll-demo/staff.html
 - name: Test
-  link: /test.html
+  link: /jekyll-demo/test.html
